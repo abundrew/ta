@@ -1,0 +1,2 @@
+# ta
+Technical analysis

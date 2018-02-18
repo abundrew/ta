@@ -1,2 +1,2 @@
 # ta
-Technical analysis
+Technical Analysis

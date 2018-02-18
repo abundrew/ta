@@ -23,7 +23,7 @@ def stock_api(endpoint):
 
     return result
 
-bad_symbols = ['TMSR']
+bad_symbols = ['ATAX','BIL','CLGN','SHV','TMSR']
 
 def stock_symbols():
     endpoint = "ref-data/symbols"
